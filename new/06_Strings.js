@@ -40,4 +40,11 @@
 // const newName = name.split('-');
 // console.log( newName[1])
 
+// const name = 'b';
+// const lname = 'b';
 
+// if(name === lname){
+//     console.log('equal')
+// }else{
+//     console.log('not');
+// }
